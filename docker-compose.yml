@@ -1,9 +1,10 @@
 version: "3.9"
 services:
     minecraft:
-      build: .
-    nginx:
-      image: nginx
-      volumes:
       ports:
-        - "5000:80"
+        - "25565:25565"
+      volumes:
+        - ./data:/data
+      environment:
+        EULA : "TRUE"
+      build: .
