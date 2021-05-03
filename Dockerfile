@@ -1,11 +1,6 @@
-# -*- mode: ruby -*-
-# vi: set ft=ruby :
-FROM python:3.8-slim-buster
+FROM openjdk:8
 WORKDIR /minecraft
 
-RUN python3 -m venv .venv
+COPY * .
 
-
-RUN .venv/bin/pip install e .
-
-CMD [java -Xmx1024M -Xms1024M -jar server.jar nogui]
+CMD ["java", "-Xmx1024M", "-Xms1024M", "-jar", "server.jar", "nogui"]
