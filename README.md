@@ -34,21 +34,21 @@ our server.
 The commands to install Docker within light sail are as follows
 ```
 sudo apt update
-sudo apt install apt -transport-htts ca-certificates curl softward-properties-common
+sudo apt install apt -transport-https ca-certificates curl software-properties-common
 sudo apt-get update
 sudo apt install docker
 ```
 
 The commands to install docker-compose are as follows
 ```
-sudo curl -L https://github.com/docker/compose/releases/download/1.29.1/docker-compose-uname-s'-'uname-s'-'uname-m'-o/usr/local/bin/docker-compose
-sudo chmod -x /usr/local/bin/docker-compose
-docker compose-version _______________
+sudo curl -L https://github.com/docker/compose/releases/download/1.29.1/docker-compose-'uname-s'-'uname-m'-'uname-m'-o/usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+docker-compose --version
 ```
 
 The commands to start the Docker service are as follows
 ```
-sudo systemctl start docker
+sudo systemctl start docker ////// might fail. Run 2 commands below
 sudo systemctl unmask docker
 sudo systemctl start docker
 ```
@@ -56,7 +56,7 @@ sudo systemctl start docker
 After all these commands are completed, you are ready to launch Minecraft within
 light sail, with the command
 ```
-sudo docker-compose up --build
+sudo docker-compose up --build -d
 ```
 
 ## Technologies used
