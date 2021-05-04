@@ -1,0 +1,74 @@
+
+PlayerMount:
+  cooldown:
+    enabled: true
+    seconds: 5
+    cooldown-message-enabled: true
+  permission: "PiggyBack.pickup"
+  ignorepickup-permission: "PiggyBack.pickup.ignore"
+  world-whitelist:
+  - 'world'
+  - 'world_nether'
+  - 'world_the_nether'
+# - 'Add more worlds!'
+  pickup-all-permission: "PiggyBack.pickup.all"
+  throw-velocity: '1.45:1.2' # Multiply:Height (Doubles or int)
+  # for /piggy ignore
+  ignore-perm: "piggyback.cmds.ignore"
+  ignore-specific-perm: "piggyback.cmds.ignoreothers"
+
+MobMount:
+# Inherits all other options apart from ignorepickup and player pickup.
+  permission: "PiggyBack.pickup.mob"
+  disallowed-pickups:
+  - 'LLAMA'
+  - 'HORSE'
+  - 'MULE'
+  - 'DONKEY'
+  - 'WITHER'
+# - 'BLACKLIST YOUR OWN MOB'
+  mobstack-limit: 3
+  should-animals-take-damage: false # Boolean required.
+
+EasterEggs:
+  tnt-pickup-enabled: true # true/false
+  tnt-pickup-perm: "PiggyBack.pickup.tnt"
+
+Messages:
+
+# Piggy Back now supports multiple different message formats
+#
+#   - [NORMAL] = Sends a normal message!
+#   - [ACTIONBAR] = Sends message as an action bar!
+#   - [TITLE] = Sends message as a title!
+#   - [SUBTITLE] = Sends message as a subtitle!
+#   - You can also use %playername% in all messages.
+#
+# These all of course work with HexFormat!
+  cooldown-message: "[ACTIONBAR] &#ffb5f0please wait %seconds% seconds!"
+  world-deny-message: "[ACTIONBAR] &#ffb5f0You cannot mount passengers in this world!"
+  dismounted-all-message: "[ACTIONBAR] &4You no longer have any passengers =("
+  throw-message: "[SUBTITLE] &#ffb5f0&lShooooooosh !!"
+  blacklist-message: "[ACTIONBAR] &#ffb5f0You cannot pickup this mob"
+  player-ignored-message: "[ACTIONBAR] &cThis player cannot be picked up!"
+  dismount-message: "[ACTIONBAR] &c-1 Passenger removed from your stack"
+  stack-message: "[ACTIONBAR] &a+1 Passenger added to your stack"
+  limit-reached-message: "[ACTIONBAR] &cPassenger limit reached"
+  ignored-message: "[ACTIONBAR] &cPlayer ignored pickups!"
+  ignored-specific-message: "[ACTIONBAR] &cThis player has ignored you!"
+  ignore-command-messages:
+    ignore-toggle-perm-deny: "[NORMAL] &cYou cannot perform this PiggyBack action!"
+    ignore-toggle-enable: "[NORMAL] &cPlayers can no-longer stack you!"
+    ignore-toggle-disable: "[NORMAL] &aPlayer can now add you as a passenger!"
+    ignore-specific: "[NORMAL] &f%target-name%&e can no longer stack you!"
+    unignore-specific: "[NORMAL] &f%target-name%&e can now stack you!"
+    ignorelist-clear: "[NORMAL] &aYour ignorelist is now empty!"
+    ignorelist-entries: "[NORMAL] &7- &d%ignored-name%(%ignored-uuid%)"
+    ignorelist-empty: "[NORMAL] &cYour ignorelist is empty!"
+
+Sounds:
+# Sounds can be found at https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+# BUKKIT_SOUND:VOLUME:PITCH
+ mount-sound: ENTITY_PIG_SADDLE:1:1
+ dismount-sound: ENTITY_PIG_SADDLE:1:1
+ throw-sound: ENTITY_GENERIC_EXPLODE:1:1
