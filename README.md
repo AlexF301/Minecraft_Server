@@ -3,17 +3,18 @@ Alexander Flores and Edwin Cojitambo
 
 ## Overview
 
-A Minecraft server! This tutorial uses a server.jar file that contains
+A Minecraft server! This tutorial uses a spigot.jar file that contains
 other files for things that range from banned players, all the way to the
-server properties. The jar file is then modified to be able to launch Minecraft
-within a virtual machine.
+server properties, as well as plugins. The jar file is then modified to be able
+to launch Minecraft within a virtual machine.
 
 ## Setup
 
 Run this command in the terminal to start up Minecraft on a local host after
-downloading the server.jar file from Minecraft's server page.
+downloading the spigot.jar file from the link provided in the background
+section
 ```
-java -Xmx1024M -Xms1024M -jar server.jar nogui
+java -Xmx1024M -Xms1024M -jar spigot-1.16.5.jar nogui
 ```
 After running the command in the terminal, add a server within the Minecraft
 application with any server name, but for the server ip address, type in
@@ -24,8 +25,8 @@ docker-compose up --build -d
 ```
 within the jar file directory, as well as creating a new server with the ip
 address of the port "0.0.0.0:25565", and your local vm should be running, along
-the new server created. After creating the virtual machine server, it is now
-time to run the application on a cloud VM. Create a light sail server if you
+with the new server created. After creating the virtual machine server, it is
+now time to run the application on a cloud VM. Create a light sail server if you
 have not, and select a plan that takes at least 2GB of RAM, as our server
 will require it. After creating an Ubuntu light sail instance, run these
 commands in order to get a functioning light sail instance capable of hosting
@@ -63,8 +64,9 @@ sudo docker-compose up --build -d
 You need to download docker to be able to run the vm, as well as on light sail
 https://docs.docker.com/get-docker/
 
-downloading the server.jar file that contains Minecraft world information
-https://www.minecraft.net/en-us/download/server/
+downloading the spigot.jar file that is necessary to reproduce this server
+yourself
+https://www.spigotmc.org/wiki/spigot-installation/
 
 Light sail in order to hose the server on a cloud based VM
 https://aws.amazon.com/lightsail/
