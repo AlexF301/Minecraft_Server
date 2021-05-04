@@ -1,4 +1,6 @@
 FROM openjdk:8
+
+# The working directory
 WORKDIR /minecraft
 
 COPY . .
