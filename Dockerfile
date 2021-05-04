@@ -1,6 +1,6 @@
 FROM openjdk:8
 WORKDIR /minecraft
 
-COPY * .
+COPY . .
 
-CMD ["java", "-Xmx1024M", "-Xms1024M", "-jar", "server.jar", "nogui"]
+CMD ["java", "-Xmx512M", "-Xms512M", "-jar", "server.jar", "nogui"]
