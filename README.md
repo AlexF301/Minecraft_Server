@@ -34,7 +34,7 @@ our server.
 The commands to install Docker within light sail are as follows
 ```
 sudo apt update
-sudo apt install apt -transport-htts ca-certificates curl software-properties-common
+sudo apt install apt -transport-https ca-certificates curl software-properties-common
 sudo apt-get update
 sudo apt install docker
 ```
