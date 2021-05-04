@@ -3,9 +3,10 @@ services:
     minecraft:
       ports:
         - "25565:25565"
+        # Uses a mount to save data upon docker-compose down
       volumes:
-        - ./data:/data
+        - .:/minecraft
       environment:
-        # EULA must be true to accept Minecrafts licensing agreement 
+        # EULA must be true to accept Minecrafts service agreement
         EULA : "TRUE"
       build: .
