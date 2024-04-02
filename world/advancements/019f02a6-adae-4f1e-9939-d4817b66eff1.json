@@ -1,5 +1,18 @@
 {
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2021-05-04 05:22:48 +0000",
+      "minecraft:river": "2021-05-04 05:22:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-05-04 06:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2021-05-04 06:54:13 +0000"
     },
@@ -11,25 +24,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-05-04 06:54:13 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "killed_by_something": "2021-05-04 06:33:10 +0000"
+      "in_water": "2021-05-04 06:54:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2021-05-04 06:54:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-05-04 06:54:13 +0000"
     },
@@ -41,13 +48,11 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "minecraft:badlands_plateau": "2021-05-04 05:22:42 +0000",
-      "minecraft:badlands": "2021-05-04 05:22:48 +0000",
-      "minecraft:river": "2021-05-04 05:22:34 +0000"
+      "unlock_right_away": "2024-04-02 08:42:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "DataVersion": 2586
+  "DataVersion": 3700
 }
