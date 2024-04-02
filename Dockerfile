@@ -1,5 +1,5 @@
 # Gets Java
-FROM openjdk:8
+FROM openjdk:17
 # The working directory
 WORKDIR /minecraft
 # Copies current directory to dockerfile
@@ -9,4 +9,4 @@ COPY . .
 # is also 1024M
 # -jar is the type of file
 # "nogui" makes minecraft not use its gui
-CMD ["java", "-Xmx800M", "-Xms800M", "-jar", "spigot.jar", "nogui"]
+CMD ["java", "-Xmx800M", "-Xms800M", "-jar", "server.jar", "nogui"]
