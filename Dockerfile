@@ -9,4 +9,4 @@ COPY . .
 # is also 1024M
 # -jar is the type of file
 # "nogui" makes minecraft not use its gui
-CMD ["java", "-Xmx800M", "-Xms800M", "-jar", "spigot-1.16.5.jar", "nogui"]
+CMD ["java", "-Xmx800M", "-Xms800M", "-jar", "spigot.jar", "nogui"]
