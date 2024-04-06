@@ -3,36 +3,74 @@ Alexander Flores and Edwin Cojitambo
 
 ## Overview
 
-A Minecraft server! This tutorial uses a spigot.jar file that contains
-other files for things that range from banned players, all the way to the
-server properties, as well as plugins. The jar file is then modified to be able
-to launch Minecraft within a virtual machine.
+A Minecraft server! This Server uses Fabric for its modding.
+The jar file is modified to be able to launch Minecraft within a virtual machine.
 
-## Setup
+## Add Mods For Your Use
 
-Run this command in the terminal to start up Minecraft on a local host after
-downloading the spigot.jar file from the link provided in the background
-section
+Add the mods the server is using so you can play on it.
+
+Unzip required_server_mods.zip. You can do this a couple ways: 
+
+* By double clickingon the file
+* right clicking and selecting "extract files"
+* For Windows (with powershell): 
 ```
-java -Xmx1024M -Xms1024M -jar spigot-1.16.5.jar nogui
+Expand-Archive -Force "zipfile path" "path to extract to"
 ```
-After running the command in the terminal, add a server within the Minecraft
-application with any server name, but for the server ip address, type in
-"localhost". Your Minecraft server should now be running locally. To run the
-server in a local vm, run
+* For Unix cli
+```
+unzip "zipfile path" -d "path to extract to"
+```
+
+## Technologies used
+
+Download Java 17+
+https://www.java.com/download/ie_manual.jsp 
+
+You need to download docker to be able to run the vm, as well as on light sail
+https://docs.docker.com/get-docker/
+
+Download Fabric (this is done in the zip file but here is the link regardless)
+https://fabricmc.net/use/installer/ 
+
+Light sail in order to host the server on a cloud based VM
+https://aws.amazon.com/lightsail/
+
+Oracle to host the server on a cloud based VM
+
+## Development Setup
+
+### Local
+
+Ensure you have the required technolgies. Use docker to build the server
 ```
 docker-compose up --build -d
 ```
+
+Docker command to run the local server
+```
+docker-compose up -d
+```
+
+Add a server within the Minecraft application with any server name with
+the the server ip address, "localhost". Your Minecraft server should now be running locally.
+
 within the jar file directory, as well as creating a new server with the ip
 address of the port "0.0.0.0:25565", and your local vm should be running, along
 with the new server created. After creating the virtual machine server, it is
-now time to run the application on a cloud VM. Create a light sail server if you
-have not, and select a plan that takes at least 2GB of RAM, as our server
-will require it. After creating an Ubuntu light sail instance, run these
-commands in order to get a functioning light sail instance capable of hosting
+now time to run the application on a cloud VM. Create a light sail or oracle server if you
+have not, and select a vm machine that is least 2GB of RAM, as required to run Minecraft. 
+After creating an Ubuntu instance (recommended), run these commands in order to get a functioning instance capable of hosting
 our server.
 
-The commands to install Docker within light sail are as follows
+```
+docker-compose down
+```
+
+### VM Server
+
+The commands to install Docker are as follows
 ```
 sudo apt update
 sudo apt install apt -transport-https ca-certificates curl software-properties-common
@@ -55,21 +93,22 @@ sudo systemctl start docker
 ```
 
 After all these commands are completed, you are ready to launch Minecraft within
-light sail, with the command
+light sail, with the command to build the docker container
 ```
 sudo docker-compose up --build -d
 ```
 
-## Technologies used
-You need to download docker to be able to run the vm, as well as on light sail
-https://docs.docker.com/get-docker/
+The command to run the server
+```
+docker-compose up -d
+```
 
-downloading the spigot.jar file that is necessary to reproduce this server
-yourself
-https://www.spigotmc.org/wiki/spigot-installation/
+In Minecraft, connect to the server with the server IP Address
 
-Light sail in order to hose the server on a cloud based VM
-https://aws.amazon.com/lightsail/
+to stop the server/bring down the container
+```
+docker-compose down
+```
 
 ## Background
 
