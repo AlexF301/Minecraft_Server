@@ -29,6 +29,15 @@ unzip "zipfile path" -d "path to extract to"
 run "fabric-installer-1.0.0.exe" and follow the instructions for installation.
 * Minecraft version: 1.20.1
 * Loader version: 0.15.9
+
+With Fabric installed, copy or move the files in the client_mods_for_server folder to your local minecraft mods folder.
+Make sure its the files (end in .jar) you are copying/moving over, not the whole folder
+The path on Windows follows this or a similar structure:
+
+C:\Users\User\AppData\Roaming\.minecraft\mods
+
+launch Minecraft with Fabric 1.20.1 and connect to the server with the server IP Address (provided by whomever is hosting the server)
+
 ## Technologies used
 
 Download Java 17+
