@@ -6,6 +6,9 @@ Alexander Flores and Edwin Cojitambo
 A Minecraft server! This Server uses Fabric for its modding.
 The jar file is modified to be able to launch Minecraft within a virtual machine.
 
+NOTE: Server is running Minecraft 1.20.1. Have this version of minecraft installed
+https://www.minecraft.net/en-us/article/minecraft--java-edition-1-20-1 
+
 ## Add Mods For Your Use
 
 Add the mods the server is using so you can play on it.
@@ -23,6 +26,9 @@ Expand-Archive -Force "zipfile path" "path to extract to"
 unzip "zipfile path" -d "path to extract to"
 ```
 
+run "fabric-installer-1.0.0.exe" and follow the instructions for installation.
+* Minecraft version: 1.20.1
+* Loader version: 0.15.9
 ## Technologies used
 
 Download Java 17+
