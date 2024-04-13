@@ -231,7 +231,7 @@
     "mobConfig": {
         "ACENCIA": {
             "health": 28,
-            "speed": 0.44999998807907104,
+            "speed": 0.69999998807907104,
             "attack": 10,
             "inventorySize": 4,
             "spawnCategory" : "AcenciaSpawnSettings",
@@ -285,7 +285,7 @@
         },
         "DIREWOLF": {
             "health": 30,
-            "speed": 0.44999998807907104,
+            "speed": 0.69999998807907104,
             "attack": 7,
             "inventorySize": 4,
             "spawnCategory" : "DireWolfSpawnSettings",

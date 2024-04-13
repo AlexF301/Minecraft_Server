@@ -17,7 +17,7 @@
 
   "minecraft:entities/wither": 0.05,
   "minecraft:entities/ender_dragon": 0.5,
-  "minecraft:chests/ruined_portal": 0.0,
+  "minecraft:chests/ruined_portal": 0.025,
   "minecraft:chests/village/village_armorer": 0.0,
   "minecraft:chests/village/village_butcher": 0.0,
   "minecraft:chests/village/village_cartographer": 0.0,
@@ -32,6 +32,6 @@
   "minecraft:chests/village/village_taiga_house": 0.0,
   "minecraft:chests/village/village_tannery": 0.0,
   "minecraft:chests/village/village_temple": 0.0,
-  "minecraft:chests/village/village_toolsmith": 0.0,
-  "minecraft:chests/village/village_weaponsmith": 0.0
+  "minecraft:chests/village/village_toolsmith": 0.005,
+  "minecraft:chests/village/village_weaponsmith": 0.05
 }
