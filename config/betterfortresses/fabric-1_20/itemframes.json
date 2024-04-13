@@ -8,14 +8,14 @@
       "shield": 0.025,
       "stone_sword": 0.025,
       "netherite_sword": 0.005,
-      "stone_axe": 0.025
+      "diamond_sword": 0.025
     },
     "defaultItem": "air"
   },
   "lootItems": {
     "entries": {
       "nether_wart": 0.1,
-      "gold_nugget": 0.2,
+      "iron_ingot": 0.2,
       "gold_ingot": 0.1
     },
     "defaultItem": "air"
@@ -41,7 +41,7 @@
     "entries": {
       "magma_cream": 0.3,
       "quartz": 0.3,
-      "fire_charge": 0.2
+      "blaze_rod": 0.1
     },
     "defaultItem": "air"
   }
