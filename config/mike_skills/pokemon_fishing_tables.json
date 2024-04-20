@@ -1,0 +1,1022 @@
+{
+  "is_forest": [
+    {
+      "pokemon": "magikarp",
+      "chance": 0.6
+    },
+    {
+      "pokemon": "goldeen",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "psyduck",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "poliwag",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "wooper",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "bidoof",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "surskit",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "bibarel",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "seaking",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "poliwhirl",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "quagsire",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "buizel",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "masquerain",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "totodile",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "croconaw",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "feraligatr",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "politoed",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "poliwrath",
+      "chance": 0.07
+    }
+  ],
+  "is_swamp": [
+    {
+      "pokemon": "magikarp",
+      "chance": 0.6
+    },
+    {
+      "pokemon": "poliwag",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "wooper",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "lotad",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "barboach",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "poliwhirl",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "lombre",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "quagsire",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "whiscash",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "buizel",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "ludicolo",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "tympole",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "palpitoad",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "seismitoad",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "tatsugiri",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "politoed",
+      "chance": 0.07
+    }
+  ],
+  "is_river": [
+    {
+      "pokemon": "goldeen",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "magikarp",
+      "chance": 0.6
+    },
+    {
+      "pokemon": "poliwag",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "wooper",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "bidoof",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "bibarel",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "seaking",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "poliwhirl",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "quagsire",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "buizel",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "corphish",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "crawdaunt",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "sobble",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "drizzile",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "inteleon",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "feebas",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "milotic",
+      "chance": 0.03
+    },
+    {
+      "pokemon": "floatzel",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "dewpider",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "araquanid",
+      "chance": 0.05
+    }
+  ],
+  "is_desert": [
+    {
+      "pokemon": "goldeen",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "barboach",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "chewtle",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "drednaw",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "basculin",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "quagsire",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "whiscash",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "stunfisk",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "barraskewda",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "tadbulb",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "binacle",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "barbaracle",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "mudkip",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "marshtomp",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "swampert",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "dreepy",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "drakloak",
+      "chance": 0.03
+    },
+    {
+      "pokemon": "dragapult",
+      "chance": 0.03
+    }
+  ],
+  "is_warm_ocean": [
+    {
+      "pokemon": "magikarp",
+      "chance": 0.6
+    },
+    {
+      "pokemon": "goldeen",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "gyarados",
+      "chance": 0.25
+    },
+    {
+      "pokemon": "seaking",
+      "chance": 0.25
+    },
+    {
+      "pokemon": "remoraid",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "mantyke",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "mantine",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "horsea",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "seadra",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "octillery",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "kingdra",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "skrelp",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "dragalge",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "qwilfish",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "popplio",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "brionne",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "primarina",
+      "chance": 0.05
+    }
+  ],
+  "is_coast": [
+    {
+      "pokemon": "magikarp",
+      "chance": 0.6
+    },
+    {
+      "pokemon": "goldeen",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "gyarados",
+      "chance": 0.25
+    },
+    {
+      "pokemon": "seaking",
+      "chance": 0.25
+    },
+    {
+      "pokemon": "remoraid",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "mantyke",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "mantine",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "chewtle",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "drednaw",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "luvdisc",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "pyukumuku",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "inkay",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "malamar",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "clauncher",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "clawitzer",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "crabrawler",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "crabominable",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "squirtle",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "wartortle",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "blastoise",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "mareanie",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "toxapex",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "cramorant",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "corsola",
+      "chance": 0.1
+    }
+  ],
+  "is_freezing": [
+    {
+      "pokemon": "shellder",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "seel",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "spheal",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "eiscue",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "cramorant",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "cloyster",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "dewgong",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "sealeo",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "piplup",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "prinplup",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "empoleon",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "bergmite",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "dratini",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "avalugg",
+      "chance": 0.03
+    },
+    {
+      "pokemon": "walrein",
+      "chance": 0.03
+    },
+    {
+      "pokemon": "lapras",
+      "chance": 0.03
+    },
+    {
+      "pokemon": "dragonair",
+      "chance": 0.03
+    },
+    {
+      "pokemon": "ironbundle",
+      "chance": 0.02
+    }
+  ],
+  "is_deep_or_abyss": [
+    {
+      "pokemon": "magikarp",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "goldeen",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "gyarados",
+      "chance": 0.25
+    },
+    {
+      "pokemon": "seaking",
+      "chance": 0.25
+    },
+    {
+      "pokemon": "remoraid",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "horsea",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "seadra",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "octillery",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "kingdra",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "chinchou",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "lanturn",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "wailmer",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "wailord",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "clamperl",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "huntail",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "gorebyss",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "relicanth",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "tirtouga",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "carracosta",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "finneon",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "lumineon",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "tentacool",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "tentacruel",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "staryu",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "starmie",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "carvanha",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "sharpedo",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "frillish",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "jellicent",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "alomomola",
+      "chance": 0.25
+    },
+    {
+      "pokemon": "tynamo",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "eelektrik",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "eelektross",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "pyukumuku",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "bruxish",
+      "chance": 0.08
+    },
+    {
+      "pokemon": "dhelmise",
+      "chance": 0.08
+    },
+    {
+      "pokemon": "cursola",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "dragalge",
+      "chance": 0.03
+    },
+    {
+      "pokemon": "dragonite",
+      "chance": 0.03
+    },
+    {
+      "pokemon": "lapras",
+      "chance": 0.05
+    }
+  ],
+  "is_cave": [
+    {
+      "pokemon": "magikarp",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "goldeen",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "wooper",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "seaking",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "quagsire",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "relicanth",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "tirtouga",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "carracosta",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "barboach",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "whiscash",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "omanyte",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "omastar",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "kabuto",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "kabutops",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "lileep",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "cradily",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "anorith",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "armaldo",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "binacle",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "barbaracle",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "froakie",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "frogadier",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "greninja",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "oshawott",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "dewott",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "samurott",
+      "chance": 0.05
+    }
+  ],
+  "is_safari": [
+    {
+      "pokemon": "magikarp",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "goldeen",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "wooper",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "seaking",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "quagsire",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "relicanth",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "omanyte",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "omastar",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "kabuto",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "kabutops",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "lileep",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "dragalge",
+      "chance": 0.03
+    },
+    {
+      "pokemon": "dragonite",
+      "chance": 0.03
+    },
+    {
+      "pokemon": "lapras",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "tentacool",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "tentacruel",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "staryu",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "starmie",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "carvanha",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "sharpedo",
+      "chance": 0.15
+    },
+    {
+      "pokemon": "chinchou",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "lanturn",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "wailmer",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "wailord",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "shellder",
+      "chance": 0.5
+    },
+    {
+      "pokemon": "seel",
+      "chance": 0.4
+    },
+    {
+      "pokemon": "spheal",
+      "chance": 0.3
+    },
+    {
+      "pokemon": "eiscue",
+      "chance": 0.2
+    },
+    {
+      "pokemon": "cloyster",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "dewgong",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "sealeo",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "piplup",
+      "chance": 0.1
+    },
+    {
+      "pokemon": "prinplup",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "empoleon",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "bergmite",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "dratini",
+      "chance": 0.05
+    },
+    {
+      "pokemon": "avalugg",
+      "chance": 0.03
+    },
+    {
+      "pokemon": "politoed",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "poliwrath",
+      "chance": 0.07
+    },
+    {
+      "pokemon": "walrein",
+      "chance": 0.03
+    },
+    {
+      "pokemon": "ironbundle",
+      "chance": 0.02
+    },
+    {
+      "pokemon": "azelf",
+      "chance": 0.01
+    },
+    {
+      "pokemon": "uxie",
+      "chance": 0.01
+    },
+    {
+      "pokemon": "mesprit",
+      "chance": 0.01
+    }
+  ],
+  "is_deep_or_abyss_thundering": [
+    {
+      "pokemon": "lugia",
+      "chance": 0.005
+    }
+  ],
+  "is_freezing_raining": [
+    {
+      "pokemon": "kyogre",
+      "chance": 0.005
+    }
+  ],
+  "is_warm_ocean_night": [
+    {
+      "pokemon": "tapufini",
+      "chance": 0.005
+    }
+  ],
+  "is_coast_day": [
+    {
+      "pokemon": "phione",
+      "chance": 0.005
+    }
+  ],
+  "is_desert_night": [
+    {
+      "pokemon": "walkingwake",
+      "chance": 0.005
+    }
+  ],
+  "is_river_night": [
+    {
+      "pokemon": "suicune",
+      "chance": 0.005
+    }
+  ]
+}
