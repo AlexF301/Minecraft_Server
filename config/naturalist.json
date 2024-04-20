@@ -5,7 +5,7 @@
   "cardinalSpawnWeight": 0,
   "robinSpawnWeight": 0,
   "finchSpawnWeight": 0,
-  "sparrowSpawnWeight": 0,
+  "sparrowSpawnWeight": 8,
   "butterflySpawnWeight": 20,
   "snailSpawnWeight": 5,
   "snakeSpawnWeight": 4,

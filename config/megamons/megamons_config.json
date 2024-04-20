@@ -1,0 +1,6 @@
+{
+  "numberOfMegaPokemonAllowed": {
+    "comment": "Number of Mega Pokemon allowed by a player at a time. At 0 it disables Mega transformations.",
+    "count": 1
+  }
+}
