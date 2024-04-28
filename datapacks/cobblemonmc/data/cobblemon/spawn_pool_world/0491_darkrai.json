@@ -1,0 +1,21 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+      {
+        "id": "darkrai-1",
+        "pokemon": "darkrai",
+        "presets": [ "natural" ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "ultra-rare",
+        "level": "60",
+        "weight": 0.0005,
+        "condition": {
+          "canSeeSky": true,
+          "biomes": [ "#cobblemon:is_forest", "#minecraft:is_end" ]
+        }
+      }
+    ]
+   }

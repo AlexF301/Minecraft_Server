@@ -1,0 +1,1678 @@
+{
+  "items": [
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:adamant_orb",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.01
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.01
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:aurora_ticket",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:azure_flute",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:blue_orb",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:bonus_disk",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:clear_bell",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:dna_splicer",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:eon_ticket",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:griseous_orb",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:gs_ball",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:jade_orb",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:liberty_pass",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:lustrous_orb",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:member_card",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:oaks_letter",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:old_sea_map",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:red_orb",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:rusted_shield",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:rusted_sword",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:tidal_bell",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:dr_fujis_diary",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:rainbow_wing",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:silver_wing",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:violet_book",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:silver_wing",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:scarlet_book",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:cocoon_of_destruction",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:sapling_of_life",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:zygarde_cell",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:zygarde_core",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    },
+    {
+      "itemId": "cobblemon-mythsandlegends-addon:zygarde_cube",
+      "enabled": true,
+      "lootTables": [
+        {
+          "id": "minecraft:chests/abandoned_mineshaft",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/ancient_city",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/bastion_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/buried_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/desert_pyramid",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/end_city_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/jungle_temple",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/shipwreck_treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:chests/woodland_mansion",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/fishing/treasure",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:gameplay/sniffer_digging",
+          "weight": 0.005
+        },
+        {
+          "id": "minecraft:archaeology/trail_ruins_rare",
+          "weight": 0.005
+        }
+      ]
+    }
+  ]
+}
