@@ -1,0 +1,13 @@
+{
+    "species": "cobblemon:raikou",
+    "order": 0,
+    "variations": [
+      {
+        "aspects": [],
+        "poser": "cobblemon:raikou",
+        "model": "cobblemon:raikou.geo",
+        "texture": "cobblemon:textures/raikou/raikou.png",
+        "layers": []
+      }
+    ]
+   }
