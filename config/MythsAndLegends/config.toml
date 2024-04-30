@@ -2,10 +2,10 @@
 inventory_check_interval = 3600
 
 # Determines if items are consumed on successful spawns. Possible values: true, false. Default: false.
-consume_items_on_successful_spawn = false
+consume_items_on_successful_spawn = true
 
 # If true, and both a key item and item condition are set, only items are consumed. Possible values: true, false. Default: true.
-ignore_key_items = true
+ignore_key_items = false
 
 # List of items to be checked in the inventory at each interval.
 inventory_check_item_list = [
@@ -51,7 +51,7 @@ inventory_check_shulker_boxes = true
 inventory_check_bundles = true
 
 # Determines if right-clicking key items forcefully spawns Pokemon that require the clicked key item as a spawning condition. Possible values: true, false. Default: false
-enable_force_spawning = false
+enable_force_spawning = true
 
 # Determines in which Spawn Pool the force spawning module should check. Possible values: common, uncommon, rare and ultra-rare. Default: ultra-rare
 force_spawning_spawn_pool = "ultra-rare"

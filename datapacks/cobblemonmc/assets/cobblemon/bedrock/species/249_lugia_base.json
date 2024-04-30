@@ -1,0 +1,13 @@
+{
+    "species": "cobblemon:lugia",
+    "order": 0,
+    "variations": [
+      {
+        "aspects": [],
+        "poser": "cobblemon:lugia",
+        "model": "cobblemon:lugia.geo",
+        "texture": "cobblemon:textures/lugia/lugia.png",
+        "layers": []
+      }
+    ]
+   }

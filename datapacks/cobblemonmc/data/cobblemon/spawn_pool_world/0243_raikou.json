@@ -11,7 +11,7 @@
         "context": "grounded",
         "bucket": "ultra-rare",
         "level": "60",
-        "weight": 0.0005,
+        "weight": 0.05,
         "condition": {
           "canSeeSky": true,
           "biomes": [ "#cobblemon:is_forest", "#cobblemon:is_mountain" ]
