@@ -1,0 +1,195 @@
+{
+  "displayName": "PKMN Trainer Red",
+  "team": [
+    {
+      "species": "cobblemon:pikachu",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "cobblemon:naive",
+      "ability": "static",
+      "moveset": [
+        "volttackle",
+        "irontail",
+        "quickattack",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 0,
+        "attack": 31,
+        "defence": 31,
+        "special_attack": 31,
+        "special_defence": 31,
+        "speed": 31
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defence": 0,
+        "special_attack": 252,
+        "special_defence": 0,
+        "speed": 252
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:light_ball"
+    },
+    {
+      "species": "cobblemon:lapras",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "cobblemon:relaxed",
+      "ability": "shellarmor",
+      "moveset": [
+        "bodyslam",
+        "brine",
+        "psychic",
+        "blizzard"
+      ],
+      "ivs": {
+        "hp": 0,
+        "attack": 31,
+        "defence": 31,
+        "special_attack": 31,
+        "special_defence": 31,
+        "speed": 31
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 128,
+        "defence": 0,
+        "special_attack": 128,
+        "special_defence": 252,
+        "speed": 0
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:none"
+    },
+    {
+      "species": "cobblemon:snorlax",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "cobblemon:brave",
+      "ability": "thickfat",
+      "moveset": [
+        "shadowball",
+        "crunch",
+        "blizzard",
+        "gigaimpact"
+      ],
+      "ivs": {
+        "hp": 0,
+        "attack": 31,
+        "defence": 31,
+        "special_attack": 31,
+        "special_defence": 31,
+        "speed": 31
+      },
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defence": 0,
+        "special_attack": 0,
+        "special_defence": 0,
+        "speed": 0
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:none"
+    },
+    {
+        "species": "cobblemon:venusaur",
+        "gender": "MALE",
+        "level": 84,
+        "nature": "cobblemon:quiet",
+        "ability": "overgrow",
+        "moveset": [
+          "frenzyplant",
+          "gigadrain",
+          "sludgebomb",
+          "sleeppowder"
+        ],
+        "ivs": {
+          "hp": 0,
+          "attack": 31,
+          "defence": 31,
+          "special_attack": 31,
+          "special_defence": 31,
+          "speed": 31
+        },
+        "evs": {
+          "hp": 252,
+          "attack": 252,
+          "defence": 0,
+          "special_attack": 0,
+          "special_defence": 0,
+          "speed": 0
+        },
+        "shiny": false,
+        "heldItem": "cobblemon:none"
+      },
+      {
+        "species": "cobblemon:charizard",
+        "gender": "MALE",
+        "level": 84,
+        "nature": "cobblemon:modest",
+        "ability": "blaze",
+        "moveset": [
+          "blastburn",
+          "flareblitz",
+          "airslash",
+          "dragonpulse"
+        ],
+        "ivs": {
+          "hp": 0,
+          "attack": 31,
+          "defence": 31,
+          "special_attack": 31,
+          "special_defence": 31,
+          "speed": 31
+        },
+        "evs": {
+          "hp": 0,
+          "attack": 128,
+          "defence": 128,
+          "special_attack": 128,
+          "special_defence": 0,
+          "speed": 128
+        },
+        "shiny": false,
+        "heldItem": "cobblemon:none"
+      },
+    {
+      "species": "cobblemon:blastoise",
+      "gender": "MALE",
+      "level": 84,
+      "nature": "cobblemon:bashful",
+      "ability": "torrent",
+      "moveset": [
+        "hydrocannon",
+        "blizzard",
+        "flashcannon",
+        "focusblast"
+      ],
+      "ivs": {
+        "hp": 0,
+        "attack": 31,
+        "defence": 31,
+        "special_attack": 31,
+        "special_defence": 31,
+        "speed": 31
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 128,
+        "defence": 128,
+        "special_attack": 128,
+        "special_defence": 128,
+        "speed": 0
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:none"
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "",
+  "canOnlyBeatOnce": false,
+  "cooldownSeconds": 0
+}
