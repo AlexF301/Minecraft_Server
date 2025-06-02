@@ -118,7 +118,7 @@
 	#━━━━━━━━━━
 	#If enabled the level cap of a players will not prevent their pokemon from gaining experience and leveling up.
 	#Trainers will still refuse to battle players that carry pokemon above their level cap!
-	allowOverLeveling = false
+	allowOverLeveling = true
 
 [Debug]
 	#━━━━━━━━━━
