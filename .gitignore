@@ -2,3 +2,9 @@ logs/
 crash-reports/
 world/
 client_mods/
+immersive_paintings_cache/
+showdown/
+modernfix/
+new_mods/
+.history/
+.fabric/
