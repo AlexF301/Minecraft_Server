@@ -34,7 +34,7 @@
     "maxStamina": 200,
     "recoveryTime": 300,
     "recoveryDelay": 20,
-    "exhaustionSpeed": 0.5,
+    "exhaustionSpeed": 1.0,
     "exhaustionDuration": 1.0
   }
 }
