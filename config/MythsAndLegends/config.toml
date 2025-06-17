@@ -1,5 +1,5 @@
 # Interval in Minecraft ticks for checking player inventories. Possible values: any integer. Default: 3600 (2 minutes and 30 seconds).
-inventory_check_interval = 3600
+inventory_check_interval = 1800
 
 # Determines if items are consumed on successful spawns. Possible values: true, false. Default: false.
 consume_items_on_successful_spawn = true
@@ -60,7 +60,7 @@ enable_force_spawning = true
 # Note: Changing this setting does not affect the actual spawns, only the force spawning behavior.
 # To change spawn rarity, modify the entire datapack.
 # Possible values: common, uncommon, rare, ultra-rare. Default: ultra-rare
-force_spawning_spawn_pool = "ultra-rare"
+force_spawning_spawn_pool = ["common", "uncommon", "rare", "ultra-rare"]
 
 # Sets the cooldown period (in seconds) after a key item is used for force spawning before it can be used again.
 # Possible values: any integer >= 1. Default: 20
